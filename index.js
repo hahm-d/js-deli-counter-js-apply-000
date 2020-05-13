@@ -1,4 +1,4 @@
-const counter = 0;
+let counter = 0;
 
 function takeANumber(katzDeliLine, customerName, counter){
     katzDeliLine.push(customerName);
